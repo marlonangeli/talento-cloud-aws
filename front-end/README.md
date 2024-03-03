@@ -15,3 +15,4 @@
 ### Aula 3 - Estruturas de controle
 
 - [Clientes de um restaurante](logica-imperativa/3/clientes-restaurante.md)
+- [Torneio de e-sports](logica-imperativa/3/torneio-e-sports.md)
