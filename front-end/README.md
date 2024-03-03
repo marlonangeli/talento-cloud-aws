@@ -11,3 +11,7 @@
 
 - [Tipos de dados](logica-imperativa/2/tipos-de-dados.md)
 - [Leitura de Dados](logica-imperativa/2/leitura-de-dados.md)
+
+### Aula 3 - Estruturas de controle
+
+- [Clientes de um restaurante](logica-imperativa/3/clientes-restaurante.md)
