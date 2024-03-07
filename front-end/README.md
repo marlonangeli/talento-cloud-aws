@@ -2,6 +2,8 @@
 
 Índice dos conteúdos:
 
+## Lógica Imperativa
+
 ### Aula 1 - Conceitos da Lógica
 
 - [Receita de bolo](logica-imperativa/1/receita-de-bolo.md)
@@ -16,3 +18,13 @@
 
 - [Clientes de um restaurante](logica-imperativa/3/clientes-restaurante.md)
 - [Torneio de e-sports](logica-imperativa/3/torneio-e-sports.md)
+
+## Introdução a Programação
+
+### Aula 1 - Introdução a Programação
+
+...
+
+### Aula 2 - Operadores Lógicos
+
+- [Operadores Lógicos](introducao-programacao/2/operadores-logicos.md)
