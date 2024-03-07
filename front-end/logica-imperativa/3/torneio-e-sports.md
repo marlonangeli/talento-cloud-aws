@@ -6,7 +6,7 @@ Num torneio de e-sports é necessário que todos os integrantes da mesma equipe 
 
 Elabore um algoritmo que permita ao usuário inserir o nome da equipe, e imprime etiquetas para os 5 membros da equipe seguindo o exemplo mostrado acima.
 
-### Algortimo
+### Algoritmo
 
 Abaixo o pseudocódigo do algoritmo que resolve o problema proposto.
 

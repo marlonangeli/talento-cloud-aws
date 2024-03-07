@@ -9,7 +9,7 @@ O restaurante tem três áreas: térreo, 1ro andar, e área externa.
 - Grupos de 5 ou mais precisam ser alocados no 1º andar, pois não dá para juntar mesas no térreo.
 - Qualquer outro grupo de pessoas pode ser alocado no térreo. 
 
-### Algortimo
+### Algoritmo
 
 Abaixo o pseudocódigo do algoritmo que resolve o problema proposto.
 
